@@ -28,5 +28,13 @@ h1 {
     border-color:#f0b57c;
 }
 
-img {box-align:center;
+#cakeImageDiv {
+    text-align:center;
+    color:hotpink;
+    font-family:'Courier New', Courier, monospace
+}
+
+img {height:50%;
+    width:50%;
+    display:inline-block;
 }
